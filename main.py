@@ -70,7 +70,10 @@ if records:
     df = pd.DataFrame(records, columns=["ID", "Serial Number", "Symbology", "Confidence", "Notes", "Timestamp"])
     st.dataframe(df)
 else:
-    st.write("No records found yet.")
+    st.write("No records found yet.")  
+
+
+    
 
 
 
