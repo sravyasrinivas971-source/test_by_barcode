@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-together
+together
+pydantic
+python-dotenv
+streamlit
+psycopg2-binary
+
+
+# cohere
+# python-dotenv
+# Pillow
